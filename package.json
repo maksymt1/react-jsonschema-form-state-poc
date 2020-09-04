@@ -8,9 +8,11 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "bootstrap": "4.5.2",
+    "lodash": "4.17.20",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-jsonschema-form": "1.8.1",
+    "react-jsonschema-form-bs4": "1.7.1",
     "react-scripts": "3.4.3"
   },
   "devDependencies": {
